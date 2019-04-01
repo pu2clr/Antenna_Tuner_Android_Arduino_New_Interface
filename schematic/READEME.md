@@ -1,0 +1,3 @@
+# Program used to make the schematic is fritzing
+
+See: http://fritzing.org
