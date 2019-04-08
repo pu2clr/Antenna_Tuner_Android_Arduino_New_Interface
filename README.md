@@ -2,7 +2,7 @@
 
 This repository contains the source code and schematics about Antenna Tuner with two capacitors (Servos) controlled by Android and Arduino with new user interface for Android.
 
-Access [Bluetooth Remote Control for Magnetic Loop Antenna](https://github.com/pu2clr/Magnetic_Loop_Antenna_Tuner). This documentation has more information about how can you start building an Antenna Tunner controlled by Arduino.
+Access [Bluetooth Remote Control for Magnetic Loop Antenna](https://github.com/pu2clr/Magnetic_Loop_Antenna_Tuner) for more detail. This documentation has more information about how can you start building an Antenna Tunner controlled by Arduino.
 
 
 You can see about this project on my youtube channel:
