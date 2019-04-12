@@ -1,7 +1,7 @@
 # Antenna Tuner with Arduino and Android - New Interface
 
 
-Please, see documentation on [Magnetic Loop Antenna controlled by Android and Arduino](https://github.com/pu2clr/Magnetic_Loop_Antenna_Tuner)
+Please, see documentation on [Magnetic Loop Antenna controlled by Android and Arduino](https://github.com/pu2clr/Magnetic_Loop_Antenna_Tuner).
 
 This repository contains the source code and schematics about Antenna Tuner with two capacitors (Servos) controlled by Android and Arduino with new user interface for Android.
 
